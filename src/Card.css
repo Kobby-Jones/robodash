@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 .card:hover {
   animation: grow 0.5s ease-in-out;
 }
@@ -8,4 +9,8 @@
   to {
     transform: scale(1.1);
   }
+}
+.header{
+  font-family: 'Monoton', sans-serif;
+  color: lightseagreen;
 }
